@@ -3,6 +3,10 @@ Unit Testing Presenters in Mortar
 
 This is a sample project demonstrating [how to unit test the presenters in Mortar](https://medium.com/@xfumihiro/unit-testing-presenters-in-mortar-826d2c461abf#.shkihd8iv).
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/cu1HheDZfnqZS4YAy7Hf8bGU/xfumihiro/UnitTestMortar'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/cu1HheDZfnqZS4YAy7Hf8bGU/xfumihiro/UnitTestMortar.svg' />
+</a>
+
 License
 -------
 
